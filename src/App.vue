@@ -3,13 +3,13 @@
 
   <main class="w-full">
     <section
-      class="lg:min-h-screen section bg-gradient-to-r from-yellow-200 via-yellow-300 to-yellow-400"
+      class="lg:min-h-screen section bg-gradient-to-r from-red-200 via-red-300 to-yellow-200"
     >
       <Headline />
     </section>
 
     <section
-      class="section bg-gray-100 flex flex-wrap justify-center md:justify-between gap-3"
+      class="section bg-gradient-to-r from-yellow-200 via-pink-200 to-pink-400 flex flex-wrap justify-center md:justify-between gap-3"
     >
       <template v-for="(data, x) in highlights" :key="x">
         <div
