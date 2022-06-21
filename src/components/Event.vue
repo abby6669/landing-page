@@ -1,7 +1,7 @@
 <template>
   <main>
     <h1
-      class="text-center pb-6 text-3xl md:text-4xl lg:text-5xl font-semibold text-indigo-500"
+      class="text-center pb-6 text-3xl md:text-4xl lg:text-5xl font-semibold text-indigo-500 fascinate"
     >
       Servicios
     </h1>

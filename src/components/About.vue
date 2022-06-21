@@ -1,12 +1,12 @@
 <template>
-  <main class="py-10">
+  <main class="py-8">
     <h1
-      class="text-center pb-6 text-3xl md:text-4xl lg:text-5xl font-semibold text-indigo-500"
+      class="text-center pb-6 text-3xl md:text-4xl lg:text-5xl font-semibold text-indigo-500 fascinate"
     >
       Nosotros
     </h1>
     <p class="text-gray-600 text-center lg:px-24">
-      Sekilas info tentang IT Gathering HIMA TI Polihasnur Tahun 2022
+      +10 Años de experiencia en SEO y Marketing digital.
     </p>
     <section class="mt-10 md:flex md:gap-8 md:items-start xl:items-start">
       <img
@@ -15,13 +15,14 @@
         width="150"
       />
       <p class="xl:px-6 lg:text-lg text-gray-600 xl:w-9/12 leading-thight">
-        <span class="text-indigo-700 font-medium">Beebig</span> kegiatan IT
-        Gathering dimaksudkan untuk membangun rasa kekeluargaan antar pengurus
-        dan anggota melalui berbagai kegiatan yang bersifat kelompok yang
-        nantinya juga akan membangun kerjasama yang lebih baik untuk kedepannya
-        serta diharapkan mampu menumbuhkan pola pikir kritis, peka terhadap
-        permasalahan sekitar, membangun jiwa leadership yang baik, dan menambah
-        wawasan pengetahuan peserta dibidang IT.
+        Al tratarse de SEO,
+        <span class="text-indigo-700 font-medium">Beebig</span> es la agencia
+        indicada para lograr el éxito. Nuestro equipo de expertos aplica
+        tácticas y estrategias comprobadas para aumentar el tráfico orgánico y
+        las conversiones de tu empresa. El crecimiento orgánico y alcanzar las
+        primeras posiciones en Google no es algo que suceda por casualidad… es
+        el resultado de tener una agencia con talento, conocimientos y
+        experiencia trabajando contigo.
       </p>
     </section>
   </main>

@@ -36,7 +36,7 @@
 
 <style scoped>
 .navbar {
-  @apply z-20 md:flex md:items-center md:justify-between md:px-6 md:py-8 lg:px-10 w-full bg-gradient-to-r from-yellow-200 via-yellow-300 to-yellow-400 fixed top-0 left-0 right-0 px-5 lg:py-8 py-3;
+  @apply z-20 md:flex md:items-center md:justify-between md:px-6 md:py-8 lg:px-10 w-full bg-gradient-to-r from-red-200 via-red-300 to-yellow-200 fixed top-0 left-0 right-0 px-5 lg:py-8 py-3;
 }
 
 .navbar-brand {

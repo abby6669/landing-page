@@ -3,15 +3,16 @@
     class="z-10 mt-20 md:py-10 lg:pt-28 md:flex md:flex-row-reverse md:justify-between md:items-center gap-3"
   >
     <!-- Hero image -->
-    <img src="/vector.png" class="md:w-5/12 block mb-8 lg:mb-0" />
+    <img src="/vector2.png" class="md:w-5/12 block mb-8 lg:mb-0" />
 
     <!-- Caption -->
     <section class="md:w-6/12">
       <h1
         id="heading"
-        class="lg:text-5xl lg:leading-snug text-3xl text-dark-50 font-semibold"
+        class="lg:text-8xl lg:leading-snug text-3xl text-dark-50 font-semibold titulo fascinate"
       >
-        BEEBIG &#128075;
+        BIGBEE MARKETING
+        <!-- BEEBIG 🐝 -->
       </h1>
       <p class="lg:text-2xl text-dark-100 font-medium mt-4">
         Agencia de Marketing Digital:
@@ -31,7 +32,7 @@
         <span class="lg:text-xl">Contáctanos</span>
       </a>
 
-      <div class="mt-10 md:mt-16 text-dark-50 flex items-center gap-2">
+      <!-- <div class="mt-10 md:mt-16 text-dark-50 flex items-center gap-2">
         <a
           href="https://instagram.com/hima_ti.polihasnur?utm_medium=copy_link"
           target="_blank"
@@ -39,7 +40,15 @@
           <i class="fab fa-facebook text-2xl text-black-50"></i>
           @Beebig
         </a>
-      </div>
+
+        <a
+          href="https://instagram.com/hima_ti.polihasnur?utm_medium=copy_link"
+          target="_blank"
+        >
+          <i class="fab fa-instagram text-2xl text-black-50"></i>
+          @Beebig
+        </a>
+      </div> -->
     </section>
   </main>
 </template>
